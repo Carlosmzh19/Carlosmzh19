@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Carlos M. Zambrana — ProyectosCzh</title>
+  <desc id="description">Banner minimalista en tonos crema y café claro con líneas técnicas decorativas.</desc>
+
+  <rect width="1200" height="320" fill="#F7F1E7"/>
+  <path d="M0 224C164 205 290 267 456 252s266-44 399-28 234 16 345-8v104H0z" fill="#E9DCC9"/>
+  <path d="M0 263c178-34 312 33 478 22s255-51 409-36 222 22 313 1v70H0z" fill="#D8C2A7" opacity=".72"/>
+  <path d="M0 291c170-21 297 24 450 16s276-37 419-23 230 15 331 0v36H0z" fill="#BFA384" opacity=".54"/>
+
+  <g fill="none" stroke="#A88D70" stroke-width="1.5" opacity=".72">
+    <path d="M870 38h93q18 0 18 18v14h71q17 0 17 17v19h82"/>
+    <path d="M925 129h56q17 0 17 17v16h122q16 0 16 16v20h33"/>
+    <path d="M850 216h104q17 0 17-17v-20q0-17 17-17h79"/>
+    <path d="M1034 320v-45q0-18 18-18h44q17 0 17-17v-32q0-17 17-17h38"/>
+    <path d="M1110 0v32q0 17-17 17h-42"/>
+  </g>
+  <g fill="#A88D70">
+    <circle cx="870" cy="38" r="4"/><circle cx="1151" cy="106" r="4"/>
+    <circle cx="925" cy="129" r="4"/><circle cx="1200" cy="198" r="4"/>
+    <circle cx="850" cy="216" r="4"/><circle cx="1034" cy="320" r="4"/>
+    <circle cx="1051" cy="49" r="4"/><circle cx="1190" cy="191" r="4"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" fill="#4A3525">
+    <text x="76" y="143" font-size="48" font-weight="650" letter-spacing="-1.2">Carlos M. Zambrana</text>
+    <text x="80" y="187" font-size="19" font-weight="500" letter-spacing="2.4" fill="#7A6149">PROYECTOSCZH</text>
+  </g>
+</svg>
